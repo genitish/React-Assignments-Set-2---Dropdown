@@ -1,0 +1,12 @@
+
+.state,.city,.landmark{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px;
+}
+#state-name,#city-name,#landmark-name{
+    width: 800px;
+}
+
